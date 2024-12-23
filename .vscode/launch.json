@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/harshit977/User-Authentication-System-with-NodeJs.git",
+            "request": "launch",
+            "url": "https://github.com/harshit977/User-Authentication-System-with-NodeJs.git"
+        }
+    ]
+}
